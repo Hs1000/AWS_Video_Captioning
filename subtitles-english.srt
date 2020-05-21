@@ -1,0 +1,188 @@
+1
+00:00:00,340 --> 00:00:02,960
+welcome to the data engineering Nano degree program. I'm
+
+2
+00:00:02,960 --> 00:00:04,879
+Sam and I'm a product Lee, that udacity.
+
+3
+00:00:05,410 --> 00:00:07,559
+I worked with a great team of industry experts and
+
+4
+00:00:07,559 --> 00:00:10,500
+curriculum designers to put this program together, and I'm
+
+5
+00:00:10,500 --> 00:00:13,929
+very excited to have you join us. So why
+
+6
+00:00:13,929 --> 00:00:17,500
+Data engineering? Dave Engineering plays a vital role in
+
+7
+00:00:17,500 --> 00:00:20,679
+storing, organizing and making use of data. The
+
+8
+00:00:20,679 --> 00:00:23,269
+speed and volume of information we generate every day is
+
+9
+00:00:23,269 --> 00:00:25,870
+incredible. Every time you open your phone, click
+
+10
+00:00:25,870 --> 00:00:28,350
+an app or make a purchase, you're creating data
+
+11
+00:00:29,120 --> 00:00:30,480
+. Many of the products we use on a daily
+
+12
+00:00:30,480 --> 00:00:33,609
+basis are powered by this data. And companies across
+
+13
+00:00:33,619 --> 00:00:37,060
+industries are scrambling to reinvent themselves in order to use
+
+14
+00:00:37,060 --> 00:00:39,810
+data to better serve their customers, build better products
+
+15
+00:00:39,859 --> 00:00:43,159
+and even make the world a better place. Data
+
+16
+00:00:43,159 --> 00:00:46,079
+engineers are crucial to this effort. The pipelines they
+
+17
+00:00:46,079 --> 00:00:49,810
+build databases they design are the foundation that all other
+
+18
+00:00:49,810 --> 00:00:53,320
+analytics, data science and artificial intelligence efforts are built
+
+19
+00:00:53,320 --> 00:00:56,549
+on. Without this important work, data simply sits
+
+20
+00:00:56,549 --> 00:00:59,740
+in a data center and takes up space. Having
+
+21
+00:00:59,740 --> 00:01:02,289
+strong data engineers is one of the first and most
+
+22
+00:01:02,289 --> 00:01:06,319
+important steps in the digital transformation process. When working
+
+23
+00:01:06,319 --> 00:01:07,129
+with big data. There are dozens of tools to
+
+24
+00:01:07,129 --> 00:01:10,189
+choose from, and it can get confusing fast.
+
+25
+00:01:10,640 --> 00:01:12,379
+This program will help you understand the big data ecosystem
+
+26
+00:01:12,560 --> 00:01:15,900
+and build your fluency in a modern set of tools
+
+27
+00:01:17,019 --> 00:01:19,040
+. The curriculum was designed with input from several expert
+
+28
+00:01:19,040 --> 00:01:22,500
+data engineers from some of the most advanced data driven
+
+29
+00:01:22,500 --> 00:01:25,290
+companies in the world, and each of the instructors
+
+30
+00:01:25,290 --> 00:01:27,450
+has extensive experience in this field. As a result
+
+31
+00:01:27,840 --> 00:01:30,060
+, the skills you learn are directly applicable. Toe
+
+32
+00:01:30,060 --> 00:01:34,090
+what data engineers do on the job. During the
+
+33
+00:01:34,090 --> 00:01:36,569
+program, you'll learn to model data, build production
+
+34
+00:01:36,569 --> 00:01:38,409
+, ready data warehouses and data lakes, process massive
+
+35
+00:01:38,409 --> 00:01:42,549
+amounts of data using modern tools and automate data pipelines
+
+36
+00:01:42,329 --> 00:01:44,859
+. Along the way, you'll build a set of
+
+37
+00:01:44,859 --> 00:01:47,750
+projects with guidance from mentors. These projects are designed
+
+38
+00:01:47,750 --> 00:01:49,810
+to imitate what you do on the job as it
+
+39
+00:01:49,810 --> 00:01:52,420
+it ends here, and every project you submit gets
+
+40
+00:01:52,420 --> 00:01:56,280
+reviewed, and our project viewers will provide personalized feedback
+
+41
+00:01:56,290 --> 00:01:59,010
+on how you can improve your work. These projects
+
+42
+00:01:59,010 --> 00:02:00,159
+will serve as a portfolio you can use to demonstrate
+
+43
+00:02:00,159 --> 00:02:04,640
+your skills. After completing the program, you'll be
+
+44
+00:02:04,640 --> 00:02:07,430
+prepared to land a job as a data engineer or
+
+45
+00:02:07,430 --> 00:02:09,120
+bring these crucial skills to your current role. We're
+
+46
+00:02:09,120 --> 00:02:12,919
+excited and honored that you're taking this step in your
+
+47
+00:02:12,919 --> 00:02:13,879
+journey with us.
+
